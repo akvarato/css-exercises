@@ -12,4 +12,9 @@ body {
 
 #fourth {
   background-color: rgb(120, 198, 120);
+  font-weight: bold;
+}
+
+.bigger {
+  font-size: 24px;
 }
