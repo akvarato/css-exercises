@@ -4,3 +4,8 @@ body {
 .odd {
   background-color: pink;
 }
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
