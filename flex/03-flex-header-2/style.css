@@ -16,12 +16,6 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.left {
-  display: flex;
-}
-.right {
-  display: flex;
-}
 
 .profile-image {
   background: rebeccapurple;
@@ -51,7 +45,7 @@ a {
   text-decoration: none;
   color: rebeccapurple;
 }
-
+.left,
 .links,
 .right {
   display: flex;
@@ -60,4 +54,6 @@ a {
 }
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
